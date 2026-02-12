@@ -1,0 +1,1 @@
+# MarketMind-AI-Retail-Intelligence-Platform
