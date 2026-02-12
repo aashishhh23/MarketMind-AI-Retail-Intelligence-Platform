@@ -1,4 +1,4 @@
-<img width="82" height="81" alt="image" src="https://github.com/user-attachments/assets/0a38d625-010c-4235-9abe-11e5a43c0a10" /># MarketMind-AI-Retail-Intelligence-Platform
+# MarketMind-AI-Retail-Intelligence-Platform
 📌 Overview
 
 MarketMind AI is an AI-powered retail intelligence platform built on AWS cloud infrastructure.
